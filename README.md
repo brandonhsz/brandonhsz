@@ -38,20 +38,39 @@ My Name is Brandon Hernandez, I'm a Communications and electronics student at Un
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
+        <span><strong>TypeScript</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>NodeJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
     </tr>
-    
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>MySQL</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Redux</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>C</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>NextJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr>
