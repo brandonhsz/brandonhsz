@@ -6,7 +6,7 @@
 
 ## About Me
 
-My Name is Brandon Hernandez, I'm a Communications and electronics student at Universidad De Guadalajara CUCEI.I am a Tech Enthusiast.
+My Name is Brandon Hernandez, I'm a Communications and electronics student at Universidad De Guadalajara CUCEI. I am a Tech Enthusiast.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
