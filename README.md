@@ -71,6 +71,18 @@ My Name is Brandon Hernandez, I'm a Communications and electronics student at Un
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>PostMan</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postman-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>NestJs</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr>
