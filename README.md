@@ -53,9 +53,9 @@ My Name is Brandon Hernandez, I'm a Communications and electronics student at Un
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>MySQL</strong>
+        <span><strong>PostgreSql</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Redux</strong>
@@ -73,9 +73,9 @@ My Name is Brandon Hernandez, I'm a Communications and electronics student at Un
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>PostMan</strong>
+        <span><strong>GraphQL</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postman-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>NestJs</strong>
