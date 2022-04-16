@@ -63,8 +63,8 @@ My Name is Brandon Hernandez, I'm a Communications and electronics student at Un
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
       <td width="25%" align="center">
-        <span>C</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+        <span>Go</span><br><br><br>
+        <img height="64px" src="https://seekicon.com/free-icon-download/golang_1.svg">
       </td>
       <td width="25%" align="center">
         <span>NextJs</span><br><br><br>
